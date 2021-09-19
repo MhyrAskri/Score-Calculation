@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bcz/CLionProjects/ScoreCalculation(TxtFile)/main.cpp
+iostream
+-
+iomanip
+-
+fstream
+-
+string
+-
+conio.h
+-
+

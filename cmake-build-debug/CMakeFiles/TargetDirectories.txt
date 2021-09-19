@@ -1,0 +1,3 @@
+C:/Users/bcz/CLionProjects/ScoreCalculation(TxtFile)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bcz/CLionProjects/ScoreCalculation(TxtFile)/cmake-build-debug/CMakeFiles/ScoreCalculation_TxtFile_.dir
+C:/Users/bcz/CLionProjects/ScoreCalculation(TxtFile)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
